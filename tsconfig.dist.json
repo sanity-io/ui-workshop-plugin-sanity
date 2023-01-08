@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.settings",
+  "include": ["./exports", "./package.json", "./src", "./typings"],
+  "exclude": ["./src/**/*.test.ts", "./src/**/*.test.tsx"],
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "./dist",
+    "jsx": "react-jsx",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "emitDeclarationOnly": true
+  }
+}

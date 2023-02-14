@@ -28,7 +28,7 @@ specifiers:
   react: ^18.2.0
   react-dom: ^18.2.0
   react-is: ^18.2.0
-  rimraf: ^3.0.2
+  rimraf: ^4.1.2
   sanity: ^3.1.4
   sanity-testing-library: ^1.0.0
   semantic-release: ^19.0.5
@@ -63,7 +63,7 @@ devDependencies:
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-is: 18.2.0
-  rimraf: 3.0.2
+  rimraf: 4.1.2
   sanity: 3.1.4_wm6cv4qzooxlf2asepxq6u4y3i
   sanity-testing-library: 1.0.0_xhlnmtw73avxb2zsnauw3uw3yy
   semantic-release: 19.0.5
@@ -8726,6 +8726,12 @@ packages:
     hasBin: true
     dependencies:
       glob: 7.2.3
+    dev: true
+
+  /rimraf/4.1.2:
+    resolution: {integrity: sha512-BlIbgFryTbw3Dz6hyoWFhKk+unCcHMSkZGrTFVAx2WmttdBSonsdtRlwiuTbDqTKr+UlXIUqJVS4QT5tUzGENQ==}
+    engines: {node: '>=14'}
+    hasBin: true
     dev: true
 
   /rollup-plugin-esbuild/5.0.0_j4bcziqiqz24ynjp7uy74p2bym:

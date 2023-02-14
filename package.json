@@ -46,7 +46,7 @@
   "devDependencies": {
     "@commitlint/config-conventional": "^17.4.3",
     "@sanity/pkg-utils": "^2.2.5",
-    "@sanity/semantic-release-preset": "^2.0.5",
+    "@sanity/semantic-release-preset": "^4.0.0",
     "@sanity/icons": "^2.2.2",
     "@sanity/ui": "^1.2.2",
     "@sanity/ui-workshop": "^1.2.0",

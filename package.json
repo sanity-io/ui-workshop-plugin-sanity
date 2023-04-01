@@ -76,7 +76,7 @@
     "sanity-testing-library": "^1.0.0",
     "semantic-release": "^20.1.0",
     "styled-components": "^5.3.6",
-    "typescript": "^4.9.5"
+    "typescript": "^5.0.0"
   },
   "peerDependencies": {
     "@sanity/ui": "^1",

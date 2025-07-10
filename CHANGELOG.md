@@ -5,6 +5,12 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/sanity-io/ui-workshop-plugin-sanity/compare/v1.1.0...v1.1.1) (2025-07-10)
+
+### Bug Fixes
+
+- **deps:** allow studio v4 peer dep ranges ([cb03113](https://github.com/sanity-io/ui-workshop-plugin-sanity/commit/cb0311393f3dcfc31765b175d912e52c5a42aaea))
+
 ## [1.1.0](https://github.com/sanity-io/ui-workshop-plugin-sanity/compare/v1.0.0...v1.1.0) (2025-03-07)
 
 ### Features

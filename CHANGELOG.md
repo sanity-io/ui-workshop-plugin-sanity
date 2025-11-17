@@ -5,6 +5,16 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/sanity-io/ui-workshop-plugin-sanity/compare/v1.1.1...v2.0.0) (2025-11-17)
+
+### ⚠ BREAKING CHANGES
+
+- require sanity v4
+
+### Bug Fixes
+
+- require sanity v4 ([d5bffc8](https://github.com/sanity-io/ui-workshop-plugin-sanity/commit/d5bffc87a0f6cfa84318030afd62d610e70ecc49))
+
 ## [1.1.1](https://github.com/sanity-io/ui-workshop-plugin-sanity/compare/v1.1.0...v1.1.1) (2025-07-10)
 
 ### Bug Fixes

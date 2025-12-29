@@ -75,7 +75,7 @@
     "@sanity/ui": "^3",
     "@sanity/ui-workshop": "^3",
     "react": "^18.3 || ^19",
-    "sanity": "^4",
+    "sanity": "^4 || ^5.0.0",
     "styled-components": "^6.1"
   },
   "repository": {
